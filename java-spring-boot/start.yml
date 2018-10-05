@@ -1,7 +1,7 @@
 title: Java Spring Boot
 description: Spring boot 2 project with common metadata
 location:  
-logo: https://cdn.vox-cdn.com/thumbor/1SrcuHFZ70PO7OPgSb2_DxM3gUk=/0x0:640x427/1820x1213/filters:focal(0x0:640x427):format(webp)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg
+logo: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/spring-boot/spring-boot.png
 tags:
   - java 8
   - spring-boot 2
